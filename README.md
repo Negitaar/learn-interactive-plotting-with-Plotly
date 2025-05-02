@@ -9,7 +9,7 @@ This repository contains the honors tutorial project for **CMSE 402** on using [
 - Step-by-Step Tutorials on:
   - Bar Charts
   - Scatter Plots
-  - Box Plots
+  - Box Plots 
   - Heatmaps
   - Treemaps
   - Choropleths
