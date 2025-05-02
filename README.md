@@ -21,7 +21,7 @@ This repository contains an honors tutorial project for **CMSE 402** on using [P
 - `CMSE_402HonorsProject.ipynb` — Jupyter Notebook tutorial with complete code and explanations
 - `CMSE_402HonorsProject.html` — HTML version for GitHub Pages viewing
 
-## 📊 Dataset
+## Dataset
 
 This project uses the [Billionaires Statistics Dataset](https://www.kaggle.com/datasets/nelgiriyewithana/billionaires-statistics-dataset), which contains information on global billionaires, including net worth, country, industry, and more.
 
