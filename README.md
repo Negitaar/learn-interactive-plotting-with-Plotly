@@ -26,11 +26,9 @@ This project uses the [Billionaires Statistics Dataset](https://www.kaggle.com/d
 
 ## View the Tutorial
 
-You can view the interactive tutorial directly on GitHub Pages (once enabled):
-
-https://yourusername.github.io/your-repo-name/
-
-*(Update the link after enabling GitHub Pages in your repository settings.)*
+You can view the interactive tutorial by: 
+- Downloading the Jupyter notebook and viewing it in Anaconda Navigator/ Jupypter Hub
+- Downloading the .html file and viewing it locally on your computer
 
 ## Author
 
