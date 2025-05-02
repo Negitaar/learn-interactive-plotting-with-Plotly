@@ -18,7 +18,7 @@ This repository contains the honors tutorial project for **CMSE 402** on using [
 ## Files
 
 - `CMSE_402HonorsProject.ipynb` — Jupyter Notebook tutorial with complete code and explanations
-- `CMSE_402HonorsProject.html` — HTML version for quick and local viewing
+- `CMSE_402HonorsProject(3).html` — HTML version for quick and local viewing
 
 ## Dataset
 
