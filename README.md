@@ -1,7 +1,6 @@
 # Interactive Data Visualization with Plotly
 
-This repository contains an honors tutorial project for **CMSE 402** on using [Plotly](https://plotly.com/python/) to create interactive visualizations that promote the concept of **data visceralization**—connecting human emotion and understanding with data through engaging visuals.
-
+This repository contains the honors tutorial project for **CMSE 402** on using [Plotly](https://plotly.com/python/) to create interactive visualizations.
 ## Contents
 
 - Why Plotly?
